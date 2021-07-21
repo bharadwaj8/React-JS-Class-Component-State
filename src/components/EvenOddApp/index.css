@@ -1,0 +1,29 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.heading {
+  color: #0f172a;
+}
+.status {
+  color: #334155;
+}
+.button {
+  background-color: #ffffff;
+  padding: 10px;
+}
+.desc {
+  color: #1e293b;
+  font-size: 10px;
+}
